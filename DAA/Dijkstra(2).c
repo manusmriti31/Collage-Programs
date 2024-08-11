@@ -1,3 +1,12 @@
+/*
+A truck driver is given a set of locations to be covered with their distances by a company. 
+The company strictly orders that truck should be started from a particular location. 
+Design and implement an algorithm that gives a greedy solution to the truck driver’s problem and display the shortest path for a given source
+location to all other locations. State the design strategy used and time complexity of the same.
+*/
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
