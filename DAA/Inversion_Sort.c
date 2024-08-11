@@ -1,3 +1,13 @@
+/*
+Three users in an online music portal listen to a playlist of 8 songs that are numbered from 1 to 8 in a random order.
+Each user needs to be recommended to another user playlist’s order that has minimum number of inversions. 
+Design and implement an algorithm to determine the number of inversions. State the design strategy used and time complexity of the same.
+*/
+
+/*
+Time Complexity T(n) = O(n^2)
+Design Strategy = Brute Force
+*/
 #include<stdio.h>
 
 int countingInversion(int arr[], int n){
