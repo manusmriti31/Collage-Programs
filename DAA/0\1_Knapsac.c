@@ -1,3 +1,9 @@
+/*
+Alia is planning for a trekking expedition with a backpack that can hold 7kg. She needs to select the most valuable items from the following list that can be accommodated within the backpack. 
+Design and implement an algorithm that displays the most valuable items that can be carried by him using Dynamic programming principles. State the design strategy used and time complexity of the same.
+*/
+
+
 #include<stdio.h>
 
 #define MAX(a,b) ((a > b) ? a : b)
