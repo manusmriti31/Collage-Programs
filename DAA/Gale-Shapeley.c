@@ -1,3 +1,12 @@
+/*Given a set of men and women design and implement Gale- Shapeley algorithm to determine the stable set of marriages among them. Comment on the efficiency and the time complexity of the same.
+
+Assumptions: 
+Men propose first according to their preference list.
+Women can choose a better partner based on the preference.
+
+The table is given as input in the code.
+*/
+
 # include<stdio.h>
 # include<stdbool.h>
 
