@@ -1,3 +1,11 @@
+/*In a database of numbers there is a table of unsorted numbers. 
+The database admin now wants to sort these numbers using an approach wherein a pivot element is selected for sorting. 
+At certain point, the first half elements are less than the pivot and right half elements are greater than the pivot. 
+Design and implement an algorithm to solve it using random numbers and also display the execution time.
+*/
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
