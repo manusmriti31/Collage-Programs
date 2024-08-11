@@ -1,3 +1,14 @@
+/*
+Design and implement merge sort algorithm that takes random number input and displays the execution time required. 
+State the design strategy used and time complexity of the same.
+*/
+
+/*
+Time Complexity T(n) = O(nlogn)
+Design Stratergy = Divide and Conquer
+*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
