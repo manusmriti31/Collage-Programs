@@ -1,3 +1,10 @@
+/*
+A GPS navigation system needs an approach to discover the reachable areas in a given geographical region from a given source area. 
+Design and implement an algorithm to find which nodes can be reached from a given source node for the following graph. 
+*/
+
+
+
 #include<stdio.h>
 #include<limits.h>
 #include<stdbool.h>
