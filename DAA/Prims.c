@@ -1,4 +1,10 @@
-//Prims Algorithm
+/*
+A car driver is given a set of locations to be covered with their distances by a company.
+Now the company gives a privilege for the car driver to start at any arbitrary location.
+But, the condition is the route chosen by the driver should be minimum i.e. the total cost of the entire driving should be minimum. 
+Design and implement an algorithm that gives a greedy solution to the car driver and display the minimum cost achieved.
+State the design strategy used and time complexity of the same.
+*/
 
 #include<stdio.h>
 #include<stdlib.h>
